@@ -28,3 +28,7 @@ Google Fonts (Poppins) – for modern and clean typography
 In short: The website is built using HTML, CSS, and JavaScript as a frontend-based e-learning platform.
 
 #OUTPUT
+
+![Image](https://github.com/user-attachments/assets/526fc6d9-5950-45be-8036-7b423817303b)
+
+![Image](https://github.com/user-attachments/assets/938ce951-a164-4251-9f45-e00e6f4f2ea9)
